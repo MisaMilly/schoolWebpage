@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background: linear-gradient(6deg, rgba(255,255,255,1) 0%, rgb(89, 0, 255) 14%, rgba(255,255,255,1) 30%, rgba(255,0,0,1) 48%, rgba(251,248,248,1) 67%, rgb(0, 26, 255) 83%, rgba(243,243,246,1) 100%);
+}
+
+#welcome p {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#PMS {
+    text-align: justify;
+    background: linear-gradient(0deg, rgba(199,197,38,1) 0%, rgba(170,143,45,1) 24%, rgba(215,213,34,1) 53%, rgba(221,192,21,1) 93%);
+    padding: 20px 10px 51px 10px;
+}
+
+#PMS img {
+    float: left;
+}
+
+#place {
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.SU {
+    font-size: 20px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.SpUn  h5{
+    color: white;
+    background-color: black;;
+}
+
+.SpUn  span{
+    color: yellow;
+    background-color: black;
+}
+
+.SU i {
+    float: right;
+}
+
+.Su text {
+    float: left;
+}
+
+#contact div {
+    text-align: center;
+}
+
+#contact img {
+    align-self: center;
+    margin-left: 700px;
+}
+
